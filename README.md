@@ -1,2 +1,1 @@
-# Exploring-and-Visualizing-a-Simple-Dataset-
-Contains AI/ML tasks 
+## List of AI/ML tasks for internship 
